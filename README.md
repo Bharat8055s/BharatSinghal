@@ -1,83 +1,175 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Bharat%20Singhal&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Data%20Analytics%20%7C%20Web%20Automation%20%7C%20Backend&descAlignY=55&descAlign=50"/></div><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Python+Developer;Data+Analytics+Enthusiast;Web+Scraping+%26+Automation;Backend+Developer;Problem+Solver;Building+Practical+and+Scalable+Solutions" />
-</p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bharat8055s&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Bharat8055s?label=Followers&style=for-the-badge&color=0e75b6" />
-</p><h1 align="center">Hi 👋, I'm Bharat Singhal</h1><h3 align="center">
-Python Developer • Data Analytics • Web Scraping • Browser Automation • Backend Development
-</h3><p align="center">
-<a href="https://github.com/Bharat8055s">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://www.linkedin.com/in/bharat-singhal-0b09692a5">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="mailto:bharatsinghal9054@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>---
+# 👋 Hey, I'm Bharat Singhal
 
-🚀 About Me
+### Computer Science Engineer | Python Developer | AI/ML Enthusiast
 
-- 🎓 Computer Science Student
-- 🐍 Passionate about Python development
-- 📊 Interested in Data Analytics and Data Processing
-- 🌐 Experienced in Web Scraping & Browser Automation
-- ⚙️ Interested in Backend Development and scalable workflows
-- 🤖 Exploring automation and intelligent software solutions
-- 🧩 Strong interest in Data Structures & Algorithms
-- 📚 Continuously improving my programming and analytical skills
-- 🚀 Focused on building practical, real-world applications
+I enjoy building practical software solutions using **Python, AI/ML,
+Data Analytics, Backend Development, and Automation**.
+
+<p align="left">
+  <a href="https://bharatsinghalonline.lovable.app">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge"/>
+  </a>
+  <a href="mailto:bharatsinghal9054@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-red?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
-🧠 Core Interests
+## 🧑‍💻 About Me
 
-<p align="center">🐍 Python • 📊 Data Analytics • 🌐 Web Scraping
-🤖 Browser Automation • ⚙️ Backend Development
-🧮 Data Structures & Algorithms • 🗄️ Databases
-🚀 Software Development • 🔍 Problem Solving
+I'm a 4th-year **B.Tech Computer Science Engineering** student passionate
+about technology, software development, artificial intelligence,
+data analytics, and problem solving.
 
-</p>---
+I enjoy transforming ideas into practical applications and continuously
+improving my programming and development skills through real-world projects.
 
-💼 Experience
+### What I Work On
 
-🌐 Web Scraping & Browser Automation
+- 🐍 Python Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Analytics
+- ⚙️ Backend Development
+- 🌐 Web Scraping & Browser Automation
+- 🧩 Data Structures & Algorithms
+- 🗄️ SQL & Databases
 
-Key Responsibilities
+---
 
-- Developed and maintained automated web scraping workflows
-- Automated browser-based tasks using Selenium
-- Extracted and processed structured data from web sources
-- Built automation workflows for repetitive browser operations
-- Worked with asynchronous/background task processing
-- Designed reliable scraping and automation pipelines
+# 🛠️ Tech Stack
 
-Technologies Used
+## 💻 Programming Languages
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
-</p>---
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-🏅 Certifications
+## 🤖 AI & Machine Learning
 
-<p align="center">🏆 <b>Design Thinking For Innovation</b> — Coursera
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-006600?style=for-the-badge"/>
+</p>
 
-<br/>🏆 <b>Data Structures and Algorithms using Python - Part 1</b> — Infosys Springboard
+## 📊 Data Analytics
 
-<br/>🏆 <b>Data Structures and Algorithms using Python - Part 2</b> — Infosys Springboard
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
-<br/>🏆 <b>Data Analytics With Pandas And Python</b> — Infosys Springboard
+## ⚙️ Backend & Web Development
 
-</p>---
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge"/>
+</p>
 
-🛠️ Tech Stack
+## 🌐 Automation & Web Scraping
 
-👨‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+</p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&
+## 🔧 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🌾 Krishi AI
+
+**Krishi AI** is an AI-powered agriculture solution designed to provide
+farmers with intelligent and data-driven assistance for agricultural
+decision-making.
+
+### ✨ Key Highlights
+
+- 🌱 AI-powered agricultural assistance
+- 🌾 Crop-related recommendations
+- 🤖 Intelligent decision support
+- 📊 Data-driven agricultural insights
+- 💬 User-friendly interaction
+- 🚜 Technology-focused approach to modern farming
+
+### 🧰 Technologies
+
+`Python` `AI/ML` `Machine Learning` `Data Analytics`
+
+---
+
+## 💧 Water Quality Prediction
+
+A machine learning system designed to predict water quality using
+multiple classification algorithms and a structured data-processing
+pipeline.
+
+### 🔬 Machine Learning Models
+
+- Logistic Regression
+- Support Vector Machine (SVM)
+- Random Forest
+- XGBoost
+- Artificial Neural Network (ANN)
+
+### ⚙️ Data Processing
+
+- Missing-value handling
+- Categorical feature encoding
+- Feature scaling
+- Data preprocessing
+- SMOTEENN for class balancing
+- Train-test splitting
+- Model comparison and evaluation
+
+### 📈 Evaluation Metrics
+
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- ROC-AUC
+- PR-AUC
+
+### 🧰 Technologies
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `Machine Learning`
+
+---
+
+# 🧠 Problem Solving
+
+I continuously practice **Data Structures & Algorithms** to improve
+my programming fundamentals and problem-solving ability.
+
+### Areas I Practice
+
+```text
+Arrays
+Strings
+Linked Lists
+Stacks & Queues
+Hashing
+Two Pointers
+Sliding Window
+Binary Search
+Sorting
+Recursion
+Trees
+Graphs
+Dynamic Programming
